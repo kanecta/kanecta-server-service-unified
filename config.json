@@ -1,0 +1,11 @@
+{
+    "development": {
+        "configId": "development",
+        "port": 8000,
+        "dataDir": "/home/user/data",
+        "initialChunkId": "efea30ab-51cf-4554-a3a0-f83ada6db0c5"
+    },
+    "production": {
+        "configId": "production"        
+    }
+}

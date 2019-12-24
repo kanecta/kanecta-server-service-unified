@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.header__menu {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.header__menu > li {
+    margin-right: 15px; 
+}

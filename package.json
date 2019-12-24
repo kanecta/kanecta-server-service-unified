@@ -1,0 +1,24 @@
+{
+  "name": "kanecta-server-service-unified",
+  "version": "1.0.0",
+  "main": "kanecta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:kanecta/kanecta-server-service-unified.git"
+  },
+  "keywords": [],
+  "author": "Richard Thomas",
+  "license": "AGPLv3",
+  "homepage": "https://kanecta.org",
+  "description": "",
+  "dependencies": {
+    "csv": "^5.3.0",
+    "csv-writer": "^1.5.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "uuid": "^3.3.3"
+  }
+}
